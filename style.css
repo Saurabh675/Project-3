@@ -1,0 +1,190 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color:rgb(255, 255, 255)
+}
+
+
+a:link {
+    color: rgb(48, 23, 237);
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:visited {
+    color: rgb(134, 213, 233);
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:active {
+    color: rgb(51, 123, 181);
+    background-color: transparent;
+ }
+
+.navsection_Top {
+    padding: 3%;
+    margin: 1%;
+    text-align: center;
+    font-size: xx-large;
+    -webkit-text-fill-color: rgb(214, 227, 35);
+    background-color:rgb(5, 9, 11);
+    text-underline-position: below;
+    text-size-adjust: 90%;
+
+
+}
+
+.navsection_Top marquee {
+   
+    -webkit-text-fill-color: rgb(178, 203, 203);
+    background-color:rgb(5, 9, 12);
+    border: none;
+    font-size: small
+    
+
+}
+
+.footer h1{
+    padding: 2%;
+    margin: 1%;
+    text-align: center;
+    -webkit-text-fill-color: rgb(233, 206, 97);
+    background-color:rgb(9, 28, 41);
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+
+
+
+.navsection{
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding-left: 1%;
+   
+
+}
+
+
+
+.navsection ul{
+    list-style: none;
+    /* padding-left: 10%; */
+     
+    display: flex;
+    justify-content: space-evenly;
+    font-size: medium;
+
+}
+
+.navsection ul li{
+   padding-left: 6%;
+   font-size: larger;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   color: black;
+
+}
+
+.quote{
+
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+    
+    
+}
+
+.Main1{
+    display: flex;
+    justify-content: space-around;
+   
+  
+  } 
+
+  @media screen and (max-width: 480px) {
+    .Main1 {
+        justify-content: space-evenly;
+align-content: end;    }
+  }
+
+  @media (max-width: 400px) {
+    .Main1{
+      flex-direction: column;
+    }
+  }
+
+
+
+
+
+.navsection ul{
+
+    padding-right: 50%;
+}
+
+
+.navsection .contact{
+    padding-right: 5%;
+}
+/* .Btn1{
+    /* border: black solid ;
+   
+    text-align: center;
+    color: azure;
+    background-color: rgb(158, 147, 234);
+    height: 30px;
+    width: 90px;
+
+    
+    border-radius: 15%; */
+
+ /* background-color: rgb(116, 116, 233);
+ height: 30px;
+ width: 10em;
+ border-radius: 10px;
+ color: azure;
+ 
+
+} */ 
+
+.Main1 {
+
+    padding-left: 5%;
+
+}
+
+/* .MainPart h1{
+
+    padding-top: 3%;
+    color: rgb(42, 28, 55);
+    width: 70%;
+
+} */
+
+/* .MainPart h2{
+
+    padding-top: 3%;
+    font-size: small;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+
+} */
+
+/* 
+
+
+/* .MainPart {
+
+    padding-top: 5%;
+    padding-bottom: 20%;
+    
+} */
+
+/* .Img1{
+
+    
+} */

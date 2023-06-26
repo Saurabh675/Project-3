@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arnav Study Center</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style copy.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <title>Bootstrap Example</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+    <nav class="navsection_Top">
+        
+            ARNAV STUDY CENTER
+           
+        <marquee direction="right"
+             behavior="alternate"
+             style="border:none 2px SOLID">
+             For more details - please click on contact page.
+        </marquee>
+    
+    </nav>
+
+    <nav class="navsection2">
+       
+        
+        <!-- <div class="logo"><img src="./Assets/sidelogo.jpg" alt="" height="100px" width="100 PX"></div> -->
+        
+        <!-- <ul>
+            <li><a href="/index.html"><u>Home</u></a></li>
+            <li><a href="/About.html"><u>About</u></a></li>
+            <li><a href="/Contact.html"><u>Contact</u></a></li>
+        </ul> -->
+        <nav class=" p-2 mb-2 bg-dark text-white nav nav-pills flex-column flex-sm-row" >
+
+            <!--    <a class="flex-sm-fill text-sm-center nav-link active" aria-current="page" href="#">Active</a> -->
+            <a class="flex-sm-fill text-sm-center nav-link .text-primary" href="/index.html">HOME</a>
+            <a class="flex-sm-fill text-sm-center nav-link" href="/About.html">SERVICES</a>
+            <a class="flex-sm-fill text-sm-center nav-link" href="/Contact.html">CONTACT US</a>
+            <a class="flex-sm-fill text-sm-center nav-link" href="/Galary.html">GALLERY</a>
+          </nav>
+    
+          <!-- <quote class="quote"> <i> “Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”</i></quote> -->
+
+
+
+        <!-- <div class="contact">
+            <button class="Btn1">Contact us</button>
+        </div> -->
+
+    </nav>
+
+    <main class="Main1">
+       
+        <div><p style="color:rgb(222, 222, 58);font-size:30px;">Services we offer</p>
+            <ul>
+                <li>Comfortable and Silent environment.</li>
+
+                <li>Ample of seating space for Study/work.</li>
+
+                <li>Separate compartment with charging point, individual light & cusion chair</li>
+
+                <li>AC Room</li>
+
+                <li>High-speed internet access</li>
+
+                <li>Extended hours & open every day in week</li>
+
+                <li>Safe and secure environment with 24/7  CCTV surveillance.</li>
+
+                <li>Newspaper (Hindi, English, Marathi)</li>
+
+                <li>Convenient location</li>
+
+                <li>Affordable pricing</li>
+
+                <li>Study groups welcome with group discussion area.</li>
+
+            </ul>
+           
+            <a href="http://https://www.instagram.com/p/CpGKOmiS75E/?igshid=MTc4MmM1YmI2Ng==" target="_blank">Visit Instagram Page!</a>
+            <style>
+            .fa-instagram {
+                background: #125688;
+                color: white;
+              }
+              </style>
+        
+        </div>
+          
+        <!-- <div class="Img1">
+            <h1><i>Continuous learning is the minimum requirement for success in any field.</i></h1><br/><br/> <br/><br/>    
+            <img src="./Assets/Desk.jpeg" alt=""><br/><br/>
+        </div> -->
+
+
+    </main>
+
+    <footer class="footer">
+
+        <h1 class="header1">Thank you</h1>
+    </footer>
+
+
+</body>
+</html>
